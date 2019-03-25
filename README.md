@@ -38,7 +38,7 @@ And check the version of _node_ installed is upper or equal to 8.
 2. Open the repository
 
 ```bash
-▶ mkdir linkedin-workshop-template
+▶ cd linkedin-workshop-template
 ```
 
 And open this folder with the editor of your choice
